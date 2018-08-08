@@ -1,0 +1,11 @@
+{
+  "name": "battlefield",
+  "version": "1.0.0",
+  "description": "MERN app that pits users against each other in battles for the best pic/vid/etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@joerafalak;@quiyaammohammed",
+  "license": "ISC"
+}
